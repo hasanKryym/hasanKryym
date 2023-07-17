@@ -1,6 +1,6 @@
-- Hi, I’m @hasanKryym
+- Hi, I’m Hasan Krayem
 - I’m interested in programming
-- I’m currently learning web development
+- I’m a Full-Stack Web Developer
 - How to reach me, Email: hasan.kryym@gmail.com
 - My Portfolio: https://hasankryym.github.io
 
