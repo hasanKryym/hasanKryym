@@ -9,8 +9,6 @@
 <div align="center">
  
  🔭 I’m currently working on my senior project which is **SohomrOnline**
- 
- 🌱 I’m currently learning **Redux, Tailwind**
 
 💬 Ask me about **Node.js, React, monogoDb... or anything [here](https://github.com/hasanKryym/hasanKryym/issues)**
 
